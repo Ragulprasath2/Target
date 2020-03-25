@@ -1,0 +1,3 @@
+compeleted hello world task
+first i choose a min sdk as android 6.0 
+in activity layout the textview was defaulty constrained then i incersed it size to 30sp. for the size i referd what is sp measurement. sp is Scale indepened Pixel it means size with bonding with the screen. for text we use sp for desing we use dp(density independet pixel). then i execute the progrm by ADV. After the execution i deside to change the background of the layout here i faced a simple problem in coding side i used the keyword 'Android:Background ="#B5EA5D"' it throughs error as 'expression expected but package name found' laterly i found a properties to layout at UI side so i choosed that to solve it.. for the hello world task i used only layout side not from code side

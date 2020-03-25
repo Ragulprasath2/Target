@@ -1,0 +1,18 @@
+Planed to complete uses of architecture componets.
+this componetns mainly used for make a app robust, testable and maintainable. list of componets android had. 
+1.)	DataBinding: used for intraction between Layout to Source code
+2.) Lifecycle: Mangae the activity and Fragment then i redirect to what is acctiviy and Fragment got answer for that then came back to componets
+3.)	Livedata: its a data holder, used to observe changes and updates in UI
+4.) Navigation: as per the name intraction accros differsnt content in application
+5.) Paging: Load and Display of data gradully based on usage of network 
+6.) Room: Robust access to SQLite
+7.) ViewModel: Design to store and use UI realted data 
+8.) WorkManger: It Mange background jobd in Android.
+
+Above the topic was gives ah sharpe to yesterday's session make it more clear espicly MVVM type design pattern.
+
+Befor enter to the Question 'how Android uses JVM to build Android' i refer how android program execute? 
+bacally here source code compiled and gives a class file like a java. In java JVM use to convert the class file into Machine code but android to reduce the exeution time it undergos diffret way that is dex file the class file converted into dex file with the help of dx tool. then DVM used to tranfer the dex file into machine code. In case of build a Application the dex file convert into apk with support of aapt(assest packaging tool) by refering this i had a answer for yesterdays question what is Stack based and registor based. DVM is registor based type. apart from that dvm now replaced by ART it is currently updating project of Android.
+then back to the first question how Android uses JVM to build Android? i searched a answer for this but it makse confuse all of them gives Android doesn't have JVM. so i conclude it Android does not have JVM it has DVM it currently replacing by ART(Android RunTime).
+
+i completed today's topic now collection a resource for java and kotlin diffrence and alose side by refering GIT.

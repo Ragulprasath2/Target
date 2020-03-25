@@ -1,0 +1,13 @@
+over view of kotlin over a java in android
+First of all both are name from island. in 2017 goole declred kotlin was android's offical language
+kotlin is boilerpalte removed form of java. Boiler plate code means huge code for simple job. kotlin avoid this boilerpalte code 
+similarities: 
+Both are statically typed language it means type checking of variables at compile-time
+As per above said both of them named from island. 
+pervious day i conclude Kotlin does not have JVM but that was wrong after the converting bytecode it was run or execute by JVM instead of processor to get a quick response. here JIT is used for converting byte code to native code as like java.
+It was open source as liks as java for Android to bulid a application. Also it interopted java libraies
+Diffrences:
+kotlin has null safe and smart casts java doesn't. here single tone class (class have only one instance at a time) created easly compared to java. Lambda functions in kotlin are very effictive.
+
+The main advantages of kotlin is, it have dataclass, extenstion, smartCast  but drawback kotlin is 15-20% late complilation compared to java. 
+after todays topic i learned What is bulid: Stand alone form that can be run on computer from it selft, and seen Y2K Bug. 
